@@ -1,0 +1,12 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ⚙️ Variables CSS para compatibilidad con modo claro/oscuro */
+.filament-brand-logo {
+    width: 100px !important;   /* Ajusta el tamaño */
+    height: 100px !important;
+}
+
